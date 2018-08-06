@@ -1,0 +1,11 @@
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.deps.json
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.runtimeconfig.json
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.runtimeconfig.dev.json
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.dll
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/bin/Debug/netcoreapp2.0/FizzBuzz.pdb
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.csprojResolveAssemblyReference.cache
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.AssemblyInfo.cs
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.dll
+/Users/danielgutierrez/Desktop/FizzBuzz/FizzBuzz/obj/Debug/netcoreapp2.0/FizzBuzz.pdb
