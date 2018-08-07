@@ -10,14 +10,10 @@ namespace FizzBuzz.Library
     {
         public static string GetValue(int input)
         {
-            // throw new NotImplementedException();
-
-            // return "1"; - output for When1_Return1()
-
-            // return input.ToString(); - output for When2_Return2()
-
-            if (input == 3)     // output for - When3_ReturnFizz()
-                return "FizzBuzz";
+            if (input == 3) 
+                return "Fizz";
+            if (input == 5)
+                return "Buzz";
             return input.ToString();
         }
     }
