@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsTestProject", "MathsTestProject\MathsTestProject.csproj", "{BFEA7F72-8670-4AF5-AA18-A484AE866499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsComponent", "MathsComponent\MathsComponent.csproj", "{7C712486-5C2F-43B4-8EF1-3B11EC6BFD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEA7F72-8670-4AF5-AA18-A484AE866499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEA7F72-8670-4AF5-AA18-A484AE866499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEA7F72-8670-4AF5-AA18-A484AE866499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEA7F72-8670-4AF5-AA18-A484AE866499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C712486-5C2F-43B4-8EF1-3B11EC6BFD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C712486-5C2F-43B4-8EF1-3B11EC6BFD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C712486-5C2F-43B4-8EF1-3B11EC6BFD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C712486-5C2F-43B4-8EF1-3B11EC6BFD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

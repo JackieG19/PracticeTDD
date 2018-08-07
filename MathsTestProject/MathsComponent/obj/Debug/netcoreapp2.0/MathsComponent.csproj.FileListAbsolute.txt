@@ -1,0 +1,9 @@
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/bin/Debug/netcoreapp2.0/MathsComponent.deps.json
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/bin/Debug/netcoreapp2.0/MathsComponent.dll
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/bin/Debug/netcoreapp2.0/MathsComponent.pdb
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/obj/Debug/netcoreapp2.0/MathsComponent.csprojResolveAssemblyReference.cache
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/obj/Debug/netcoreapp2.0/MathsComponent.csproj.CoreCompileInputs.cache
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/obj/Debug/netcoreapp2.0/MathsComponent.AssemblyInfoInputs.cache
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/obj/Debug/netcoreapp2.0/MathsComponent.AssemblyInfo.cs
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/obj/Debug/netcoreapp2.0/MathsComponent.dll
+/Users/danielgutierrez/Desktop/MathsTestProject/MathsComponent/obj/Debug/netcoreapp2.0/MathsComponent.pdb
